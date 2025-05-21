@@ -1,2 +1,2 @@
 # Library-Research-Internship-25
-After graduating from the Advanced Master's of Digital Humanities at KU Leuven, 
+After graduating from the Advanced Master's of Digital Humanities at KU Leuven, I started an internship with KU Leuven's library services. In particular, the work was with the library's Special Collection's unit and a series of archived letters from the 16th century humanist Frans Cranevelt. Beyond gaining direct experience with historical metadata and performing digital analyses, this position enhanced my ability to collaborate across teams and support the success of systems that improve data accessibility, preservation, and scholarly research.
